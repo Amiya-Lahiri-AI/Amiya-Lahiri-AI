@@ -1,21 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amiya Lahiri</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
-```
-class WhoAmI():
-    
-  def __init__(self):
-    self.name = "Amiya Lahiri";
-    self.username = "Amiya-Lahiri-AI";
-    self.location = "Bengaluru, India";
-    self.Linkedin = "www.linkedin.com/in/amiya-lahiri-ai";
-    self.kaggle = "https://www.kaggle.com/amiyalahiri";
-  
-  def __str__(self):
-    return self.name
-
-if __name__ == '__main__':
-    me = WhoAmI()
-```
 
 - 📫 How to reach me **aahlahiri9800@gmail.com**
 
